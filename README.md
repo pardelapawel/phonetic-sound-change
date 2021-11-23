@@ -1,1 +1,1 @@
-# phonetical-sound-change
+# phonetic-sound-change
